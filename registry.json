@@ -8,11 +8,6 @@
             "name": "(Example) My University",
             "location": "Cambridge, MA, USA",
             "url": "https://digitalcredentials.mit.edu"
-        },
-        "did:key:z6MktL8XGbuYv5f7hwf6hVyJkJWynNtNhcsXFYe9NJzjKHkW": {
-            "name": "Digital Credentials Consortium",
-            "location": "Cambridge, MA, USA",
-            "url": "https://digitalcredentials.mit.edu"
         }
     }
 }
