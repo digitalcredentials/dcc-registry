@@ -1,7 +1,7 @@
 {
     "meta": {
         "created": "2022-10-27T17:57:31+00:00",
-        "updated": "2025-05-09T18:26:43+00:00"
+        "updated": "2026-11-20T18:16:58+00:00"
     },
     "registry": {
         "did:key:z6MkuL7x2mTEoBmUuuaQ2hvEUd2YsEtmsHeX9JzqJZ8VYaVH": {
@@ -83,6 +83,11 @@
             "name": "Instituto Tecnológico de Monterrey Test",
             "location": "Monterrey, Nuevo León, México",
             "url": "https://tec.mx/es"
+        },
+        "did:key:z6MkqTkYhk9RioTvoaZurbKNDjMqNhjZ81hMywWP5F7i418r": {
+            "name": "Digital Credentials Commons",
+            "location": "Indianapolis, IN, USA",
+            "url": "https://dccommons.org"
         }
     }
 }
